@@ -1,1 +1,1 @@
-# algorithm
+# algorithm LZ77 COMPRESSOR AND DE-COMPRESSOR IN C
